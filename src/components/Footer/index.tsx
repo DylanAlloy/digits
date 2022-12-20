@@ -33,7 +33,7 @@ const Footer: React.FC = () => {
         links={[
           {
             key: 'Digits Pro',
-            title: `Digits Pro 3.0.0-beta`,
+            title: `Digits Pro 3.0.1-beta`,
             href: 'https://dgtsapp.com',
             blankTarget: true,
           },
