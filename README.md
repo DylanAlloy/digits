@@ -1,11 +1,9 @@
 <p align="center">
-<a target="_blank" rel="noreferrer" href="https://www.buymeacoffee.com/alloydylan
-"><img style="max-width:175px;" src="./public/digits2.gif">
-</a>
+<img style="max-width:175px;" src="./public/digits2.gif">
 <br>
-DigitsUI is a highly configurable and ML-leveraged quantitative analysis platform for options traders and aspiring market makers 😉
+DigitsUI is a highly configurable and ML-leveraged quantitative analysis platform for options traders and aspiring market makers 😉 <a href="https://dgtsapp.com" target="_blank">See it live!</a>
 <br>
-<a align="center target="_blank" rel="noreferrer" href="https://github.com/DylanAlloy/digits-api-main">digits-api-main</a> | <a target="_blank" rel="noreferrer" href="https://github.com/DylanAlloy/digits-api-tda">digits-api-tda</a> | <a target="_blank" rel="noreferrer" href="https://github.com/DylanAlloy/digits-api-altdata">digits-api-altdata</a> | <a target="_blank" rel="noreferrer" href="https://github.com/DylanAlloy/digits-api-ml">digits-api-ml</a>
+<a align="center target="_blank" rel="noreferrer" href="https://github.com/DylanAlloy/digits-api-main">digits-api-main</a> | <a target="_blank" rel="noreferrer" href="https://github.com/DylanAlloy/digits-api-tda">digits-api-tda</a> | <a target="_blank" rel="noreferrer" href="https://github.com/DylanAlloy/digits-api-altdata">digits-api-altdata</a> | <a target="_blank" rel="noreferrer" href="https://github.com/DylanAlloy/digits-api-ml">digits-api-ml</a> | <a target="_blank" rel="noreferrer" href="https://github.com/DylanAlloy/digits-helm-chart">✨ Now there's a Helm Chart! ✨</a>
 <br>
 </p>
 <img src="./3.0.0-beta.png">
@@ -37,8 +35,6 @@ DigitsUI is a highly configurable and ML-leveraged quantitative analysis platfor
     🌐 locale(compiler): Made a small contribution to internationalization
 
     Other commit types: refactor, perf, workflow, build, CI, typos, tests, types, wip, release, dep
-
-    See https://github.com/vuejs/core/blob/main/.github/commit-convention.md
 
 <br>
 
@@ -105,6 +101,7 @@ npm test
 
 ##### immediate
 
+- [ ] Make Reddit module async
 - [x] Initialize beautiful README.md
 - [ ] Add monthly OPEX to "Volatility" page
 - [ ] Create documentation page w/ info about data & sources
